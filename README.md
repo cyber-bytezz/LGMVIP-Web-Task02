@@ -1,7 +1,6 @@
 # User Card Grid Web Application!
-
-
-![Project Preview](https://github.com/cyber-bytezz/LGMVIP-Web-Task02/assets/130319315/4b2bdab4-13d5-41f8-958a-e9aa9c6ed5b3)
+ 
+![Project Preview](https://github.com/cyber-bytezz/LGMVIP-Web-Task02/assets/130319315/ea0e7012-84d7-4536-a933-29078742bc81)
 
 This is a user card grid web application developed using React.js and axios. The application fetches user data from an API and displays it in a visually appealing grid layout.
 
